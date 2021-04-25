@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.exe
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.deps.json
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.dll
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\bin\Debug\netcoreapp3.1\ListasDeObjetos.pdb
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.dll
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.pdb
+C:\Users\Vitor Manoel\Desktop\ListasDeObjetos\obj\Debug\netcoreapp3.1\ListasDeObjetos.genruntimeconfig.cache

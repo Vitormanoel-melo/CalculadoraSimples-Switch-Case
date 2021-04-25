@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.exe
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.deps.json
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.dll
+C:\Users\Vitor Manoel\Desktop\Exercício3\bin\Debug\netcoreapp3.1\Exercício3.pdb
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.dll
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.pdb
+C:\Users\Vitor Manoel\Desktop\Exercício3\obj\Debug\netcoreapp3.1\Exercício3.genruntimeconfig.cache

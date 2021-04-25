@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.exe
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.deps.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.dll
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\bin\Debug\netcoreapp3.1\Questão1.pdb
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.dll
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.pdb
+C:\Users\dev\Desktop\Backend\Console\Condicionais\ExercíciosCondicionaisClassroom\Questão1\obj\Debug\netcoreapp3.1\Questão1.genruntimeconfig.cache

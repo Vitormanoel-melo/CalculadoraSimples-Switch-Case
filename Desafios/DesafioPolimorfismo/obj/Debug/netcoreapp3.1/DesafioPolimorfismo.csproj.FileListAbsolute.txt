@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.exe
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.deps.json
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.dll
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\bin\Debug\netcoreapp3.1\DesafioPolimorfismo.pdb
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.dll
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.pdb
+C:\Users\Vitor Manoel\Desktop\DesafiosExtras\DesafioPolimorfismo\obj\Debug\netcoreapp3.1\DesafioPolimorfismo.genruntimeconfig.cache

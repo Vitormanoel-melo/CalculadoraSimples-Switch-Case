@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.exe
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.deps.json
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.dll
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\bin\Debug\netcoreapp3.1\Exercício2.pdb
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.dll
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.pdb
+C:\Users\Vitor Manoel\Desktop\EstruturasDeRepetição\Exercício2\obj\Debug\netcoreapp3.1\Exercício2.genruntimeconfig.cache

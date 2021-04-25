@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Vitor Manoel\Desktop\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Vitor Manoel\Desktop\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

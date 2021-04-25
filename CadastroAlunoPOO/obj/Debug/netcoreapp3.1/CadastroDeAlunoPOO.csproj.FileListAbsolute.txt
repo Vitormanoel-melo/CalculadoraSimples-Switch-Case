@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.exe
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.deps.json
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.dll
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\bin\Debug\netcoreapp3.1\CadastroDeAlunoPOO.pdb
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.dll
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.pdb
+C:\Users\Vitor Manoel\Desktop\CadastroDeAlunoPOO\obj\Debug\netcoreapp3.1\CadastroDeAlunoPOO.genruntimeconfig.cache

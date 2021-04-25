@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.exe
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.deps.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\bin\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.dll
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.pdb
+C:\Users\dev\Desktop\Backend\Console\Condicionais\Exercício\obj\Debug\netcoreapp3.1\Exercício.genruntimeconfig.cache

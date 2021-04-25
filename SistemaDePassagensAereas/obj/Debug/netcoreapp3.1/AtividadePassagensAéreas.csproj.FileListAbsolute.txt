@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.exe
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.deps.json
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.dll
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\bin\Debug\netcoreapp3.1\AtividadePassagensAéreas.pdb
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.dll
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.pdb
+C:\Users\Vitor Manoel\Desktop\AtividadePassagensAéreas\obj\Debug\netcoreapp3.1\AtividadePassagensAéreas.genruntimeconfig.cache

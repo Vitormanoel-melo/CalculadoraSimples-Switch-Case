@@ -1,0 +1,13 @@
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.exe
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.deps.json
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.runtimeconfig.json
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.runtimeconfig.dev.json
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.dll
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\bin\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.pdb
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.csprojAssemblyReference.cache
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.AssemblyInfoInputs.cache
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.AssemblyInfo.cs
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.dll
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.pdb
+C:\Users\Vitor Manoel\Desktop\ExercícioMédiaDosAlunos\obj\Debug\netcoreapp3.1\ExercícioMédiaDosAlunos.genruntimeconfig.cache
